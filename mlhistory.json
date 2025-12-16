@@ -1,0 +1,232 @@
+{
+  "title": {
+    "media": {
+      "url": "//www.flickr.com/photos/tm_10001/2310475988/",
+      "caption": "Machine Learning History Timeline",
+      "credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+    },
+    "text": {
+      "headline": "History of Machine Learning<br/>1950 – 2023",
+      "text": "<p>The evolution of machines that learn from data.</p>"
+    }
+  },
+  "events": [
+    {
+      "start_date": { "year": "1950" },
+      "media": {
+        "url": "",
+        "caption": "Alan Turing proposes the Turing Test.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Turing Test (1950)",
+        "text": "<p>Alan Turing proposes the Turing Test as a way to evaluate whether a machine can exhibit intelligent behavior indistinguishable from a human.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1952" },
+      "media": {
+        "url": "",
+        "caption": "Arthur Samuel develops a self-learning checkers program.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Samuel's Checkers Program (1952)",
+        "text": "<p>Arthur Samuel creates one of the first machine learning programs, enabling an IBM computer to improve its performance at playing checkers through experience.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1970" },
+      "media": {
+        "url": "",
+        "caption": "Foundations of automatic differentiation and backpropagation.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Backpropagation Foundations (1970)",
+        "text": "<p>Seppo Linnainmaa publishes work on reverse-mode automatic differentiation, forming the mathematical basis for backpropagation used in neural network training.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1979" },
+      "media": {
+        "url": "",
+        "caption": "Stanford Cart demonstrates early autonomous navigation.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Stanford Cart (1979)",
+        "text": "<p>Hans Moravec's Stanford Cart becomes an early example of autonomous vehicle research, navigating obstacles using computer vision.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1986" },
+      "media": {
+        "url": "",
+        "caption": "Neural networks gain renewed popularity.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Parallel Distributed Processing (1986)",
+        "text": "<p>David Rumelhart and James McClelland popularize neural networks and backpropagation through their work on parallel distributed processing.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1997" },
+      "media": {
+        "url": "",
+        "caption": "LSTM architectures enable long-term sequence learning.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "LSTM Networks (1997)",
+        "text": "<p>Sepp Hochreiter and Jürgen Schmidhuber introduce Long Short-Term Memory (LSTM), allowing neural networks to learn long-range dependencies.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1999" },
+      "media": {
+        "url": "",
+        "caption": "AI assists medical diagnosis through imaging.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Medical Imaging AI (1999)",
+        "text": "<p>Computer-aided diagnosis systems analyze large mammogram datasets, improving cancer detection accuracy.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "2006" },
+      "media": {
+        "url": "",
+        "caption": "Deep learning gains momentum.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Deep Learning Revival (2006)",
+        "text": "<p>Geoffrey Hinton and collaborators introduce deep belief networks, helping revive interest in deep neural networks.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "2007" },
+      "media": {
+        "url": "",
+        "caption": "LSTM models outperform traditional speech systems.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Speech Recognition Advances (2007)",
+        "text": "<p>LSTM-based models begin outperforming traditional speech recognition techniques.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "2012" },
+      "media": {
+        "url": "",
+        "caption": "AlexNet revolutionizes computer vision.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Deep Learning Breakthrough (2012)",
+        "text": "<p>AlexNet wins the ImageNet competition, demonstrating the power of deep convolutional neural networks.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "2014" },
+      "media": {
+        "url": "",
+        "caption": "AI reaches near-human perception levels.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "DeepFace & AlphaGo (2014)",
+        "text": "<p>Facebook's DeepFace achieves near-human face recognition accuracy, while AlphaGo showcases advanced game-playing capabilities.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "2015" },
+      "media": {
+        "url": "",
+        "caption": "AI excels in games and speech recognition.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "AI Milestones (2015)",
+        "text": "<p>CTC-trained LSTMs improve speech recognition, and AlphaGo defeats top human Go players.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "2016" },
+      "media": {
+        "url": "",
+        "caption": "Lip-reading achieved using deep learning.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "LipNet (2016)",
+        "text": "<p>DeepMind's LipNet demonstrates high-accuracy lip-reading directly from video.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "2017" },
+      "media": {
+        "url": "",
+        "caption": "Self-driving cars enter public testing.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Waymo Autonomous Vehicles (2017)",
+        "text": "<p>Waymo begins extensive testing of self-driving vehicles and launches autonomous taxi pilots.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "2019" },
+      "media": {
+        "url": "",
+        "caption": "Virtual assistants dominate consumer AI.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Virtual Assistants (2019)",
+        "text": "<p>Voice assistants such as Alexa and Google Assistant become widely adopted in homes.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "2020" },
+      "media": {
+        "url": "",
+        "caption": "Large language models emerge.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "GPT-3 & Reinforcement Learning (2020)",
+        "text": "<p>GPT-3 showcases powerful natural language generation, while advances in reinforcement learning expand AI capabilities.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "2021" },
+      "media": {
+        "url": "",
+        "caption": "AI scales to trillion-parameter models.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Model Scaling (2021)",
+        "text": "<p>Switch Transformers and game-playing AI systems demonstrate unprecedented model scale and performance.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "2023" },
+      "media": {
+        "url": "",
+        "caption": "Generative AI reaches mainstream users.",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Large Language Models Era (2023)",
+        "text": "<p>GPT-4 and Google Bard bring advanced generative AI to public-facing applications.</p>"
+      }
+    }
+  ]
+}
+     
